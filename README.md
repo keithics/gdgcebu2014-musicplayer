@@ -1,4 +1,4 @@
-Music Player - Google Devfest 2014 Presentation
+Music Player - GDG Devfest 2014 Presentation
 =======================
 
 A basic music player that can play and pause mp3 files.
@@ -14,7 +14,13 @@ Tutorial includes basic understanding of the following.
 - MediaPlayer Class
 
 	
-**Google Play Store : [download](https://play.google.com/store/apps/details?id=webninja.com.simplemusicplayer)**	
+**Google Play Store :**
+
+ [https://play.google.com/store/apps/details?id=webninja.com.simplemusicplayer](https://play.google.com/store/apps/details?id=webninja.com.simplemusicplayer)
+
+**Slide Presentation: **
+
+[http://www.slideshare.net/keithics/android-developer-music-player-from-scratch-cebu-google-devfest-2014](http://www.slideshare.net/keithics/android-developer-music-player-from-scratch-cebu-google-devfest-2014)	
 
 
 
